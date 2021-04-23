@@ -1,4 +1,5 @@
 hello rahul
 how are you
-this line is for local git repository
+working directory line 
+test line to check all ok 
 
