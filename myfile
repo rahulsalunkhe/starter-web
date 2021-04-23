@@ -1,5 +1,9 @@
 hello 
 this is a test file
+<<<<<<< HEAD
 abc
 cbc
 
+=======
+zzz
+>>>>>>> 77dbecf84f1a5d4e6c236d6b15f40c6094879bce
