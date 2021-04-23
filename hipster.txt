@@ -1,5 +1,4 @@
 hello rahul
 how are you
-working directory line 
-test line to check all ok 
+this is for local git repo
 
