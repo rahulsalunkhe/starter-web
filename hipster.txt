@@ -1,5 +1,9 @@
 hello rahul
 how are you
 final line to add
+<<<<<<< HEAD
 test line
 
+=======
+added git line
+>>>>>>> 4bc551f6279e4e958d51d2a473c75faccc7ad308
